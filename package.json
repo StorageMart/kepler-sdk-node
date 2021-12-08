@@ -1,0 +1,23 @@
+{
+  "name": "kepler-sdk-node",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rednovalabs/kepler-sdk-node.git"
+  },
+  "author": "Red Nova Labs <rednovanpm@rednovalabs.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rednovalabs/kepler-sdk-node/issues"
+  },
+  "homepage": "https://github.com/rednovalabs/kepler-sdk-node#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "request-promise": "^2.0.0"
+  }
+}
